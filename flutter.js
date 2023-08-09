@@ -18,7 +18,7 @@ _flutter.loader = null;
    *
    * If `duration` is < 0, the original `promise` is returned unchanged.
    * @param {Promise} promise
-   * @param {number} duration
+   * @param {number} duration 
    * @param {string} debugName
    * @returns {Promise} a wrapped promise.
    */

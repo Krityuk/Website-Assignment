@@ -13,7 +13,7 @@ const RESOURCES = {
 "assets/assets/categories/cat2.png": "136be1b357c67c8abfa5ca52d9502d28",
 "assets/assets/categories/cat3.png": "998ad2172e615a3b6053f631cbf2edf6",
 "assets/assets/categories/cat4.png": "7f419c663303e658983d40a79df20789",
-"assets/assets/categories/cat5.png": "8743e3873bbac4b094f5d50e0d1ab7b3",
+"assets/assets/categories/cat5.png": "8743e3873bbac4b094f5d50e0d1ab7b3", 
 "assets/assets/categories/cat6.png": "9b0123da5f5a8eccb9afdfffe0356593",
 "assets/assets/categories/cat7.png": "d27c06885bda5cac8b9b95ba11275502",
 "assets/assets/gif/beep.mp3": "b158b926bae29392dc22577f76e5b67f",
